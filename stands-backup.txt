@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <title>Os Stands de JoJo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Conhecendo os Stands</h1>
+    <h4>Aqui serão apresentados os 5 principais Stands da obra.</h4>
+    <p>
+      Os Stands são manifestações da energia vital de seus usuários, geralmente
+      representando seus poderes e suas habilidades. Cada Stand possui
+      características próprias, podendo ter capacidades físicas extraordinárias
+      ou habilidades especiais que tornam as batalhas imprevisíveis.
+    </p>
+    <hr />
+    <h2>Made in Heaven</h2>
+    <p><strong>Usuário:</strong> Enrico Pucci</p>
+    <figure>
+      <img src="made.webp" alt="Stand Made in Heaven" width="250" />
+      <figcaption>Made in Heaven — Enrico Pucci</figcaption>
+    </figure>
+    <p>
+      Made in Heaven possui uma habilidade extraordinária de acelerar o tempo.
+      Essa capacidade faz com que o tempo passe cada vez mais rápido para o
+      universo, tornando esse Stand extremamente poderoso e difícil de
+      enfrentar.
+    </p>
+    <hr />
+    <h2>The World</h2>
+    <p><strong>Usuário:</strong> DIO</p>
+    <figure>
+      <img src="the.jpeg" alt="Stand The World" width="250" />
+      <figcaption>The World — DIO</figcaption>
+    </figure>
+    <p>
+      The World é um Stand conhecido principalmente por sua capacidade de parar
+      o tempo por alguns segundos. Durante esse período, seu usuário consegue se
+      movimentar enquanto os demais ficam incapazes de agir, tornando essa
+      habilidade uma grande vantagem em combate.
+    </p>
+    <hr />
+    <h2>King Crimson</h2>
+    <p><strong>Usuário:</strong> Diavolo</p>
+    <figure>
+      <img src="king.webp" alt="Stand King Crimson" width="250" />
+      <figcaption>King Crimson — Diavolo</figcaption>
+    </figure>
+    <p>
+      King Crimson possui a habilidade de apagar um intervalo de tempo e prever
+      acontecimentos por meio de sua habilidade Epitaph. Isso permite que seu
+      usuário antecipe situações e evite consequências, tornando seus movimentos
+      muito difíceis de prever e combater.
+    </p>
+    <hr />
+    <h2>Gold Experience Requiem</h2>
+    <p><strong>Usuário:</strong> Giorno Giovanna</p>
+    <figure>
+      <img src="g.jpeg" alt="Gold Experience Requiem" width="250" />
+      <figcaption>Gold Experience Requiem — Giorno Giovanna</figcaption>
+    </figure>
+    <p>
+      Gold Experience Requiem é uma forma evoluída do Stand Gold Experience. Sua
+      habilidade especial pode anular ações e impedir que elas alcancem seus
+      resultados, sendo considerado um dos Stands mais poderosos de todo o
+      universo JoJo.
+    </p>
+    <hr />
+    <h2>Wonder of U</h2>
+    <p><strong>Usuário:</strong> Tooru</p>
+    <figure>
+      <img src="w.webp" alt="Stand Wonder of U" width="250" />
+      <figcaption>Wonder of U — Tooru</figcaption>
+    </figure>
+    <p>
+      Wonder of U possui uma habilidade conhecida como calamidade, que provoca
+      acontecimentos desastrosos contra aqueles que perseguem seu usuário. Sua
+      capacidade faz com que até mesmo ações aparentemente simples possam se
+      tornar perigosas, sendo um Stand extremamente difícil de enfrentar.
+    </p>
+    <hr />
+    <p>
+      <a href="index.html">Voltar para a página inicial</a>
+    </p>
+  </body>
+</html>

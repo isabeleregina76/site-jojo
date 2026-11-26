@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Universo de Jojo Bizarre adventure!</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Universo de Jojo Bizarre Adventure</h1>
+    <p>Conheça o universo, personagens, aventuras e poderes bizarros!</p>
+    <hr />
+    <h2>Conheça Jojo Bizarre Adventure</h2>
+    <p>
+      Jojo bizarre Adventure, conhecido também como JJBA, é uma aventura criada
+      pelo japonês Hirohiko Araki, que acompanha diferentes gerações da família
+      Joestar. A história é marcada por aventuras, batalhas, poderes e
+      personagens únicos, com diferentes personagens
+    </p>
+    <figure>
+      <img src="jojo.webp" alt="Personagens de Jojo" width="350" />
+      <figcaption>
+        Um Universo repleto de aventuras, mistérios e personagens marcantes.
+      </figcaption>
+    </figure>
+    <hr />
+    <h2>Explore nosso universo de Jojo!</h2>
+    <h4>Escolha oque deseja conhecer:</h4>
+    <ul>
+      <li><a href="parts.html"> As partes de Jojo</a></li>
+      <li><a href="personagens.html">Personagens</a></li>
+      <li><a href="stands.html">Conheçer os Stands</a></li>
+    </ul>
+    <p>
+      Todos esses são fundamentais para essa grande e bizarra aventura de JJBA!
+      um fato curiso é que esse anime apresenta um estilo muito diferente dos
+      outros animes, o que o torna único, sendo marcado pelo seu traço diferente
+      e inesquecivel pelos seus fans.
+    </p>
+  </body>
+</html>
